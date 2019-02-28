@@ -1,0 +1,26 @@
+{
+  "document": {
+    "nodes": [
+      {
+        "object": "block",
+        "type": "div",
+        "nodes": [
+          {
+            "type": "p",
+            "object": "block",
+            "nodes": [
+              {
+                "object": "text",
+                "leaves": [
+                  {
+                    "text": "This is some text...  "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
